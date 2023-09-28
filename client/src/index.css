@@ -105,6 +105,13 @@ button:focus-visible {
   margin-top: 10px;
 }
 
+.more_information {
+  border: 1px solid rgb(0, 224, 93);
+  width: 250px;
+  min-height: 100px;
+  margin-top: 10px;
+}
+
 .loading_spinner {
   margin-top: 10px;
   margin-left: 10px;
@@ -123,4 +130,31 @@ button:focus-visible {
   100% {
     transform: rotate(360deg);
   }
+}
+.information {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+}
+._name {
+  font-weight: 700;
+}
+
+th {
+  background-color: #333;
+  color: white;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Style table cells */
+td {
+  background-color: #1d1d1d;
+  padding: 8px;
+  text-align: left;
+}
+
+button {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
