@@ -1,0 +1,701 @@
+{
+  "user-feedback": {
+    "-NjYJwmHvL7ejxA2Sqjw": {
+      "Accuracy in E-numbers detection": "5",
+      "Experience with the application": "4",
+      "Usefulness": "4",
+      "additionalFeedback": "Though the software is very useful and accurate in detecting the numbers. It would be awesome to read all the ingredients with the app.",
+      "createdOn": 1700326001,
+      "e_numbers_detected_on_scan": ["E500", "E503", "E901", "E120", "E250"]
+    },
+    "-NjYLt6v7oyUgFF_xrh3": {
+      "Accuracy in E-numbers detection": "5",
+      "Experience with the application": "3",
+      "Usefulness": "4",
+      "additionalFeedback": "The ice cream I tested is not recommend for the children under aged 5. I would like to have more information why it is not recommend?",
+      "createdOn": 1700326512,
+      "dietType": "children under 5 year age",
+      "e_numbers_detected_on_scan": ["E471", "E412", "E410", "E407"]
+    },
+    "-NjYND1tDvJ_R8fesE1U": {
+      "Accuracy in E-numbers detection": "3",
+      "Experience with the application": "4",
+      "Usefulness": "4",
+      "additionalFeedback": "Superb. I tested the green tea package with healthy diet option. Good to know the product is safe 😃",
+      "createdOn": 1700326859,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E331", "E330", "E300"]
+    },
+    "-NjYOK1-gWblZoK3JaNG": {
+      "Accuracy in E-numbers detection": "5",
+      "Did summary accurately described the product?": "5",
+      "Experience with the application": "3",
+      "Usefulness": "3",
+      "additionalFeedback": "The chocolate bar is unhealthy as per your app. Didn't know the E471 is synthetic fat and not good for us ",
+      "createdOn": 1700327150,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E471"]
+    },
+    "-NjYPxLquRCH-R4AolnV": {
+      "Accuracy in E-numbers detection": "5",
+      "Did summary accurately described the product?": "5",
+      "Experience with the application": "1",
+      "Usefulness": "5",
+      "additionalFeedback": "UI can be better. Indeed the sourdough bread is safe",
+      "createdOn": 1700327577,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E472e", "E262"]
+    },
+    "-NjYRNHsDuvT0R4om4bI": {
+      "Accuracy in E-numbers detection": "5",
+      "Did summary accurately described the product?": "1",
+      "Experience with the application": "2",
+      "Usefulness": "2",
+      "additionalFeedback": "It was definitely not vegetarian, the food has eggs in it.",
+      "createdOn": 1700327950,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E415", "E407", "E202", "E412", "E330"]
+    },
+    "-NjYRhiVSmlG0gAPW-qn": {
+      "Accuracy in E-numbers detection": "5",
+      "Did summary accurately described the product?": "5",
+      "Experience with the application": "1",
+      "Usefulness": "5",
+      "additionalFeedback": ".",
+      "createdOn": 1700328038,
+      "dietType": "diabetic patient",
+      "e_numbers_detected_on_scan": ["E450", "E500"]
+    },
+    "-NjYfzOPJ6xz8Gx6aNj1": {
+      "Accuracy in E-numbers detection": "5",
+      "Did summary accurately described the product?": "3",
+      "Experience with the application": "4",
+      "Usefulness": "5",
+      "createdOn": 1700332042,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E415", "E330", "E202"]
+    },
+    "-NjbBF8-hvwXy1yguZlV": {
+      "Accuracy in E-numbers detection": "5",
+      "Did summary accurately described the product?": "4",
+      "Experience with the application": "5",
+      "Usefulness": "4",
+      "createdOn": 1700390830,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E339", "E450", "E452"]
+    },
+    "-NjbCq9xhCcMhMnTEfod": {
+      "Accuracy in E-numbers detection": "5",
+      "Did summary accurately described the product?": "5",
+      "Experience with the application": "2",
+      "Usefulness": "5",
+      "additionalFeedback": "useful",
+      "createdOn": 1700391248,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E339", "E450", "E452"]
+    },
+    "-NjbPQbB-pxE7DMPJJ8G": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 2,
+      "Usefulness": 3,
+      "createdOn": 1697855747,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": [
+        "E1103",
+        "E384",
+        "E1403",
+        "E161a",
+        "E260",
+        "E433"
+      ]
+    },
+    "-NjbPQbC7Rm8ByRpQV3z": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 2,
+      "Usefulness": 3,
+      "createdOn": 1697883586,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E218"]
+    },
+    "-NjbPQbC7Rm8ByRpQV4-": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 5,
+      "Usefulness": 4,
+      "createdOn": 1697883624,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E925", "E161h", "E408", "E497"]
+    },
+    "-NjbPQbC7Rm8ByRpQV40": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 1,
+      "Usefulness": 5,
+      "createdOn": 1697901282,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": [
+        "E1525",
+        "E477",
+        "E214",
+        "E341",
+        "E472f",
+        "E944"
+      ]
+    },
+    "-NjbPQbDkdhez48lp5KE": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 1,
+      "Usefulness": 4,
+      "createdOn": 1698007143,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E630", "E421"]
+    },
+    "-NjbPQbDkdhez48lp5KF": {
+      "Accuracy in E-numbers detection": 3,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1698019813,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E214", "E350", "E427", "E357", "E1518"]
+    },
+    "-NjbPQbDkdhez48lp5KG": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 1,
+      "Usefulness": 3,
+      "createdOn": 1698035603,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": [
+        "E311",
+        "E380",
+        "E172",
+        "E223",
+        "E949",
+        "E443"
+      ]
+    },
+    "-NjbPQbE_1OgbiajJbah": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 1,
+      "Usefulness": 5,
+      "createdOn": 1698063465,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E909", "E124", "E929"]
+    },
+    "-NjbPQbE_1OgbiajJbai": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 1,
+      "Usefulness": 5,
+      "createdOn": 1698166657,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E123"]
+    },
+    "-NjbPQbE_1OgbiajJbaj": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 2,
+      "Usefulness": 3,
+      "createdOn": 1698182496,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E470", "E427", "E338", "E526", "E921"]
+    },
+    "-NjbPQbFOOIoeLAx_wOw": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 2,
+      "Usefulness": 4,
+      "createdOn": 1698218423,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E921", "E107", "E161h", "E960", "E391"]
+    },
+    "-NjbPQbFOOIoeLAx_wOx": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 3,
+      "Usefulness": 4,
+      "createdOn": 1698332358,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E399", "E472e", "E161f", "E542"]
+    },
+    "-NjbPQbFOOIoeLAx_wOy": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 4,
+      "Usefulness": 4,
+      "createdOn": 1698440876,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E342", "E381", "E1420"]
+    },
+    "-NjbPQbGyX2fq4Y0cLln": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 3,
+      "Usefulness": 3,
+      "createdOn": 1698524668,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E223", "E233"]
+    },
+    "-NjbPQbGyX2fq4Y0cLlo": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 4,
+      "Usefulness": 4,
+      "createdOn": 1698534546,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E491", "E335", "E460", "E452"]
+    },
+    "-NjbPQbHLf4gPl58VDB-": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1698571468,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E518", "E125"]
+    },
+    "-NjbPQbHLf4gPl58VDB0": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 3,
+      "Usefulness": 4,
+      "createdOn": 1698572291,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": [
+        "E326",
+        "E365",
+        "E1450",
+        "E501",
+        "E313",
+        "E525"
+      ]
+    },
+    "-NjbPQbHLf4gPl58VDB1": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 2,
+      "Usefulness": 4,
+      "createdOn": 1698589807,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": [
+        "E101",
+        "E1402",
+        "E1105",
+        "E635",
+        "E1519",
+        "E496"
+      ]
+    },
+    "-NjbPQbIvlPUCFiQkj6H": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1698615551,
+      "dietType": "diabetic patient",
+      "e_numbers_detected_on_scan": ["E102"]
+    },
+    "-NjbPQbIvlPUCFiQkj6I": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1698628951,
+      "dietType": "diabetic patient",
+      "e_numbers_detected_on_scan": ["E164", "E160a"]
+    },
+    "-NjbPQbJyE89zWqJaFXF": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 5,
+      "Usefulness": 4,
+      "createdOn": 1698643574,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E958"]
+    },
+    "-NjbPQbJyE89zWqJaFXG": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 2,
+      "Usefulness": 5,
+      "createdOn": 1698669652,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E363", "E487", "E952"]
+    },
+    "-NjbPQbKAoZPnhRmGPZo": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 1,
+      "Usefulness": 3,
+      "createdOn": 1698680475,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E943b"]
+    },
+    "-NjbPQbKAoZPnhRmGPZp": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 4,
+      "Usefulness": 4,
+      "createdOn": 1698681020,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E315", "E620", "E541"]
+    },
+    "-NjbPQbKAoZPnhRmGPZq": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 5,
+      "Usefulness": 5,
+      "createdOn": 1698738153,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E919", "E559"]
+    },
+    "-NjbPQbLQFDn75BiTohD": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 1,
+      "Usefulness": 4,
+      "createdOn": 1698776498,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E486", "E513", "E577"]
+    },
+    "-NjbPQbLQFDn75BiTohE": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 4,
+      "Usefulness": 5,
+      "createdOn": 1698851055,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E928", "E558", "E957", "E323", "E640"]
+    },
+    "-NjbPQbMaJIT1MVWrEOR": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1698861618,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E505", "E310", "E1510"]
+    },
+    "-NjbPQbMaJIT1MVWrEOS": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1698909872,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E171", "E383", "E1104", "E924"]
+    },
+    "-NjbPQbMaJIT1MVWrEOT": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 2,
+      "Usefulness": 5,
+      "createdOn": 1698929964,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E105", "E484", "E1204"]
+    },
+    "-NjbPQbNOsrmDxXd3nXU": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 1,
+      "Usefulness": 4,
+      "createdOn": 1698935263,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E1451", "E469", "E540", "E553", "E515"]
+    },
+    "-NjbPQbNOsrmDxXd3nXV": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 4,
+      "Usefulness": 4,
+      "createdOn": 1698989268,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E948", "E440a", "E498"]
+    },
+    "-NjbPQbOkLgUcD8Nu-zs": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 2,
+      "Usefulness": 5,
+      "createdOn": 1699086254,
+      "dietType": "diabetic patient",
+      "e_numbers_detected_on_scan": [
+        "E958",
+        "E553b",
+        "E472d",
+        "E470",
+        "E408",
+        "E399"
+      ]
+    },
+    "-NjbPQbOkLgUcD8Nu-zt": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1699090347,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E160e", "E313", "E1420"]
+    },
+    "-NjbPQbOkLgUcD8Nu-zu": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 3,
+      "Usefulness": 3,
+      "createdOn": 1699158256,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E1420"]
+    },
+    "-NjbPQbOkLgUcD8Nu-zv": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 2,
+      "Usefulness": 5,
+      "createdOn": 1699202682,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E576", "E1443", "E297"]
+    },
+    "-NjbPQbOkLgUcD8Nu-zw": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 2,
+      "Usefulness": 3,
+      "createdOn": 1699252548,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E520"]
+    },
+    "-NjbPQbP3b_4mLHS5O4I": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 5,
+      "Usefulness": 5,
+      "createdOn": 1699275787,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E384", "E160", "E349", "E953"]
+    },
+    "-NjbPQbP3b_4mLHS5O4J": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 4,
+      "Usefulness": 5,
+      "createdOn": 1699283493,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": [
+        "E390",
+        "E328",
+        "E924b",
+        "E250",
+        "E526",
+        "E552"
+      ]
+    },
+    "-NjbPQbP3b_4mLHS5O4K": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 2,
+      "Usefulness": 5,
+      "createdOn": 1699315432,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E160e"]
+    },
+    "-NjbPQbP3b_4mLHS5O4L": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1699323514,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E151"]
+    },
+    "-NjbPQbQvpH3TUCnHq_Y": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1699340806,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E924b"]
+    },
+    "-NjbPQbQvpH3TUCnHq_Z": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 4,
+      "Usefulness": 3,
+      "createdOn": 1699351936,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E228", "E173", "E1452", "E337"]
+    },
+    "-NjbPQbQvpH3TUCnHq__": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 2,
+      "Usefulness": 5,
+      "createdOn": 1699509567,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E962", "E223", "E924b"]
+    },
+    "-NjbPQbQvpH3TUCnHq_a": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 1,
+      "Usefulness": 4,
+      "createdOn": 1699518221,
+      "dietType": "diabetic patient",
+      "e_numbers_detected_on_scan": ["E491"]
+    },
+    "-NjbPQbRWkFZ7GO7xVuh": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 2,
+      "Usefulness": 5,
+      "createdOn": 1699558684,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": [
+        "E160d",
+        "E905a",
+        "E351",
+        "E507",
+        "E203",
+        "E227"
+      ]
+    },
+    "-NjbPQbRWkFZ7GO7xVui": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 5,
+      "Usefulness": 3,
+      "createdOn": 1699661520,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E214", "E471", "E318", "E631"]
+    },
+    "-NjbPQbRWkFZ7GO7xVuj": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 1,
+      "Usefulness": 5,
+      "createdOn": 1699775268,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E161c", "E227", "E222"]
+    },
+    "-NjbPQbRWkFZ7GO7xVuk": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 2,
+      "Experience with the application": 4,
+      "Usefulness": 3,
+      "createdOn": 1699796741,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": [
+        "E1452",
+        "E635",
+        "E333",
+        "E127",
+        "E524",
+        "E390"
+      ]
+    },
+    "-NjbPQbRWkFZ7GO7xVul": {
+      "Accuracy in E-numbers detection": 4,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 5,
+      "Usefulness": 4,
+      "createdOn": 1699858727,
+      "dietType": "diabetic patient",
+      "e_numbers_detected_on_scan": ["E924", "E519", "E238", "E1406"]
+    },
+    "-NjbPQbSDa7q-TEcFPey": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 1,
+      "Usefulness": 5,
+      "createdOn": 1699860925,
+      "dietType": "vegan",
+      "e_numbers_detected_on_scan": ["E485", "E514", "E217", "E214"]
+    },
+    "-NjbPQbSDa7q-TEcFPez": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 5,
+      "Experience with the application": 3,
+      "Usefulness": 3,
+      "createdOn": 1699938430,
+      "dietType": "diabetic patient",
+      "e_numbers_detected_on_scan": ["E562", "E129", "E538", "E405"]
+    },
+    "-NjbPQbSDa7q-TEcFPf-": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 5,
+      "Usefulness": 5,
+      "createdOn": 1700016210,
+      "dietType": "healthy and safe",
+      "e_numbers_detected_on_scan": ["E513", "E1501", "E328"]
+    },
+    "-NjbPQbSDa7q-TEcFPf0": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 5,
+      "Usefulness": 4,
+      "createdOn": 1700036372,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E483", "E1202", "E343"]
+    },
+    "-NjbPQbSDa7q-TEcFPf1": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 1,
+      "Experience with the application": 1,
+      "Usefulness": 5,
+      "createdOn": 1700052163,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E1420", "E930", "E460", "E399"]
+    },
+    "-NjbPQbTkWaxo-2iEM0v": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 4,
+      "Usefulness": 5,
+      "createdOn": 1700089357,
+      "dietType": "vegetarian",
+      "e_numbers_detected_on_scan": ["E514", "E926", "E297", "E404", "E960"]
+    },
+    "-NjbPQbTkWaxo-2iEM0w": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 4,
+      "Usefulness": 4,
+      "createdOn": 1700183253,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E301", "E1505", "E164"]
+    },
+    "-NjbPQbTkWaxo-2iEM0x": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1700193808,
+      "dietType": "allergic",
+      "e_numbers_detected_on_scan": ["E1510", "E238", "E514", "E105"]
+    },
+    "-NjbPQbUFKTpZIk0A66w": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 3,
+      "Experience with the application": 3,
+      "Usefulness": 5,
+      "createdOn": 1700240054,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E233", "E1413", "E173"]
+    },
+    "-NjbPQbUFKTpZIk0A66x": {
+      "Accuracy in E-numbers detection": 5,
+      "Did summary accurately described the product?": 4,
+      "Experience with the application": 4,
+      "Usefulness": 5,
+      "createdOn": 1700252931,
+      "dietType": "halal",
+      "e_numbers_detected_on_scan": ["E120", "E505"]
+    }
+  }
+}
